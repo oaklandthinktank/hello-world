@@ -1,2 +1,3 @@
 # hello-world
 getting to git
+I am still hoping for proper attribution of substack/battleship work, as visible at open source ecology's wiki, AnthonyRepetto/ConceptLog...
